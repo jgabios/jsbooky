@@ -2,7 +2,7 @@ I made it as an appengine app, but, at this point in time, there is no dependenc
 It is just easy for me to start/stop it, and modify and checkout the result.
 
 requirements:
-<a href="http://code.google.com/appengine/downloads.html#Google_App_Engine_SDK_for_Java">java appengine sdk</a>
+http://code.google.com/appengine/downloads.html#Google_App_Engine_SDK_for_Java - java appengine sdk
 
 after you take jsbooky down on your machine, go to its folder: {JSBOOK_HOME}
 and there run:
@@ -15,7 +15,7 @@ if you want to get to work right away and make some changes to the home page, go
 WEB-INF/app/actions/index.js and WEB-INF/app/skins/index.html .
 
 you have to get acquainted to ringojs way of doing server-side web things.
-this page can get you up&running: <a href="http://ringojs.org/wiki/Tutorial">http://ringojs.org/wiki/Tutorial</a>.
+this page can get you up&running: http://ringojs.org/wiki/Tutorial .
 
 of course, if you get stuck, or have a question, feel free to contact me.
 
